@@ -48,7 +48,7 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 
 ### 🕐 GitHub Activity
 
-[![Lakshmi's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=lakshmivijay23&theme=react-dark&area=true)](https://github.com/lakshmivijay23)
+[![Lakshmi’s GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=lakshmivijay23&theme=react-dark&bg_color=ffffff&color=00aa00&line=00cc00&point=00cc00&area_color=00ff00&area=true&hide_border=true)](https://github.com/lakshmivijay23)
 
 
 **Activity Overview**  
