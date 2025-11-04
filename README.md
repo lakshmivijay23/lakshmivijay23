@@ -48,8 +48,8 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 
 ### 🕐 GitHub Activity
 
-**Contribution Heatmap**  
-![Lakshmi's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=lakshmivijay23&theme=react-dark&area=true)
+[![Lakshmi's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=lakshmivijay23&theme=react-dark&area=true)](https://github.com/lakshmivijay23)
+
 
 **Activity Overview**  
 ![GitHub Activity Overview](https://github-readme-activity-graph.vercel.app/graph?username=lakshmivijay23&theme=react-dark)
