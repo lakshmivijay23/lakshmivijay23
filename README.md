@@ -16,7 +16,7 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 
 - Designed and developed an **AI-powered agentic pipeline** (Streamlit + LangGraph + LangSmith) to generate MATLAB/Simulink models from thermal system images — reducing manual modeling time by **70%**.  
 - Contributed to a **social listening platform**, developing FastAPI backend, data collection (Scrapy, Selenium), and LLM-based insight curation. Used **Neo4j** and **MongoDB** for managing sentiment data.  
-- Implemented **Mixture of Agents (MoA)**  to extract complex semiconductor datasheets and automate test plan generation using **GPT-4**.  
+- Implemented **Mixture of Agents (MoA)** to extract complex semiconductor datasheets and automate test plan generation using **GPT-4**.  
 - Built a **code assistant prototype** using RAG with **ChromaDB** and a B-tree retrieval approach to deliver **60–70% accurate** code suggestions.  
 - Developed automated ML workflows and self-correcting AI agents using **LangChain** and **Python**.  
 
@@ -38,14 +38,19 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" />
 </p>
 
-
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 ![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshmivijay23&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmivijay23&layout=compact&theme=tokyonight)
 
 ---
 
-### 🕐 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshmivijay23&theme=tokyo-night)
+### 🕐 GitHub Activity
+
+**Contribution Heatmap**  
+![Lakshmi's GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=lakshmivijay23&theme=react-dark&area=true)
+
+**Activity Overview**  
+![GitHub Activity Overview](https://github-readme-activity-graph.vercel.app/graph?username=lakshmivijay23&theme=react-dark)
+
