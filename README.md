@@ -13,12 +13,12 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 ### Work Experience
 
 **AI Engineer**  
-
+- Developed an doctor appointment scheduler assistant.
 - Designed and developed an **AI-powered agentic pipeline** (Streamlit + LangGraph + LangSmith) to generate MATLAB/Simulink models from thermal system images — reducing manual modeling time by **70%**.  
-- Contributed to a **social listening platform**, developing FastAPI backend, data collection (Scrapy, Selenium), and LLM-based insight curation. Used **Neo4j** and **MongoDB** for managing sentiment data.  
-- Implemented **Mixture of Agents (MoA)** to extract complex semiconductor datasheets and automate test plan generation using **GPT-4**.  
+- Developed a FastAPI backend for a social listening platform that included data collection (Scrapy, Selenium)pipeline, LLM-based insight curation pipeline and querying-bot pipeline. Used **Neo4j** and **MongoDB** for managing data.  
+- Extraction of complex semiconductor datasheets and automate test plan generation.  
 - Built a **code assistant prototype** using RAG with **ChromaDB** and a B-tree retrieval approach to deliver **60–70% accurate** code suggestions.  
-- Developed automated ML workflows and self-correcting AI agents using **LangChain** and **Python**.  
+- Developed automated ML workflow with code correction agent.  
 
 ---
 
