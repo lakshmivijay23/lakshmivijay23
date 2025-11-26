@@ -1,5 +1,5 @@
 # Hi👋 I'm Lakshmi Vijayan
-[![Typing Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=430&lines=AI+Developer;+A+passionate+Learner;+Learning+to+become+an+AI+Full+Stack+Developer!)](https://git.io/typing-svg)
+[![Typing Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=430&lines=AI+Developer;+A+passionate+Learner;+AI+Full+Stack+Developer+-Inprogress!)](https://git.io/typing-svg)
 ### 💫 About Me
 My name is **Lakshmi Vijayan** from India.  
 I’m an **AI Engineer** with over **2 years of experience** developing intelligent solutions across **automotive, semiconductor, and telecom industries**.  
