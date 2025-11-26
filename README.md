@@ -1,6 +1,5 @@
 # Hi👋 I'm Lakshmi Vijayan
 
-**Currently open to work**
 [![Typing Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=430&lines=AI+Developer;+A+passionate+Learner;+AI+Full+Stack+Developer+-Inprogress!)](https://git.io/typing-svg)
 ### 💫 About Me
 My name is **Lakshmi Vijayan** from India.  
