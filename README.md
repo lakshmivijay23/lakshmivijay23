@@ -39,14 +39,18 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 </p>
 
 ---
+### 🛠️ Tech Stack & Tools
+
+| AI/ML | Languages | Frameworks & Tools |
+| :---: | :---: | :---: |
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmivijay23&layout=compact&theme=tokyonight)
 
 ---
-### 🐍 My GitHub Contribution Activity
-
-![Lakshmi's Snake Animation](https://github.com/lakshmivijay23/lakshmivijay23/blob/output/github-contribution-grid-snake.svg)
 
 **Activity Overview**  
 ![GitHub Activity Overview](https://github-readme-activity-graph.vercel.app/graph?username=lakshmivijay23&theme=react-dark)
