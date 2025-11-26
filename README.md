@@ -3,7 +3,7 @@
 [![Typing Text](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=430&lines=AI+Developer;+A+passionate+Learner;+AI+Full+Stack+Developer+-Inprogress!)](https://git.io/typing-svg)
 ### 💫 About Me
 My name is **Lakshmi Vijayan** from India.  
-I’m an **AI Engineer** with over **2 years of experience** developing intelligent solutions across **automotive, semiconductor, and telecom industries**.  
+I’m an **AI Engineer** with over **3 years of experience** developing intelligent solutions across **automotive, semiconductor, and telecom industries**.  
 I’m passionate about technology, problem-solving, and building scalable AI systems that make a real-world impact.  
 Along with coding, I enjoy music, travelling and exploring new tech trends.  
 
