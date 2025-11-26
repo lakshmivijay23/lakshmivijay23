@@ -60,9 +60,6 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 ### 🏆 Trophies
 ![LeetCode Trophies](https://leetcode-profile-trophy.vercel.app/?username=lachuparu)
 
-### 📊 Stats Card
-![LeetCode Stats](https://leetcard.jacoblin.cool/lachuparu?theme=dark&ext=heatmap)
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lakshmivijay23&theme=darkhub)
 
 
