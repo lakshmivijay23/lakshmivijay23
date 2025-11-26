@@ -44,6 +44,9 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmivijay23&layout=compact&theme=tokyonight)
 
 ---
+### 🐍 My GitHub Contribution Activity
+
+![Lakshmi's Snake Animation](https://github.com/lakshmivijay23/lakshmivijay23/blob/output/github-contribution-grid-snake.svg)
 
 **Activity Overview**  
 ![GitHub Activity Overview](https://github-readme-activity-graph.vercel.app/graph?username=lakshmivijay23&theme=react-dark)
