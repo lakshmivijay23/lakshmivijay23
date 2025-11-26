@@ -51,8 +51,9 @@ Along with coding, I enjoy music, travelling and exploring new tech trends.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmivijay23&layout=compact&theme=tokyonight)
 
 ---
-## 🏆 LeetCode Trophies
-![LeetCode Trophies](https://leetcode-profile-trophy.vercel.app/?username=lakshmivijay23)
+## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/lachuparu)
+
 
 ---
 
